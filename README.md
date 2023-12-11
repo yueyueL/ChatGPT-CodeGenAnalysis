@@ -87,6 +87,33 @@ The `leetcode_auto_submit` folder contains a script for automatically submitting
 
 - **login_type (Optional):** (Type: String) - Specifies the type of login to be used (normal, manually). Determines how the automated login process is handled.
 
+You can use the following code to submit the code to LeetCode and collect the results.
+```python
+from leetcode_auto_submit import AutoLeetCode
+import time
+
+autoleet = AutoLeetCode(
+    headless = False,
+    username = "your_username",
+    password = "your_password",
+    verbose = False,
+    incognito = False,
+    skip_login = False,
+    user_data_dir = "data/profile/",
+    login_type = 'manully'
+)
+time.sleep(2)
+
+chatgpt_generated_code = "xxxxxxxxxxxx"
+task_name = "Two Sum"
+language = "Python3"
+
+# if only run code and collect
+result_status, result_details = autoleet.run_and_collect(task_name, language, chatgpt_generated_code)
+# if submit codd and collect
+result_status, result_details = autoleet.submit_and_collect(task_name, language, chatgpt_generated_code)
+```
+
 
 ## Dependencies
 The evaluation scripts require the following dependencies:
