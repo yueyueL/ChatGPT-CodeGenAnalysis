@@ -1,0 +1,6 @@
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/python/initial/001-two-sum.py:2:28: F821 undefined name 'List'
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/python/initial/001-two-sum.py:2:55: F821 undefined name 'List'
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/python/initial/001-two-sum.py:3:76: W291 trailing whitespace
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/python/initial/001-two-sum.py:6:80: E501 line too long (82 > 79 characters)
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/python/initial/001-two-sum.py:14:80: E501 line too long (99 > 79 characters)
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/python/initial/001-two-sum.py:17:18: W292 no newline at end of file

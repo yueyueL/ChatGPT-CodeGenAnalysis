@@ -1,0 +1,7 @@
+Starting audit...
+[ERROR] /home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] /home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] /home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:2:25: Parameter nums should be final. [FinalParameters]
+[ERROR] /home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:2:37: Parameter target should be final. [FinalParameters]
+[ERROR] /home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:7:34: '{' is followed by whitespace. [NoWhitespaceAfter]
+Audit done.

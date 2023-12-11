@@ -1,0 +1,8 @@
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:1:	CommentRequired:	Class comments are required
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:2:	CommentRequired:	Public method and constructor comments are required
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:2:	MethodArgumentCouldBeFinal:	Parameter 'nums' is not assigned and could be declared final
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:2:	MethodArgumentCouldBeFinal:	Parameter 'target' is not assigned and could be declared final
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:3:	LocalVariableCouldBeFinal:	Local variable 'map' could be declared final
+/home/yueyue/AndroZoo/chatgpt/leetcode/result/easy/java/initial/001-two-sum/Solution.java:5:	LocalVariableCouldBeFinal:	Local variable 'complement' could be declared final
